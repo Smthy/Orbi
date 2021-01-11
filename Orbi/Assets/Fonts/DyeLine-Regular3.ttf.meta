@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: eeb0e386e1f9ea74188fbcb111b2e360
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DyeLine
+  fontNames:
+  - DyeLine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 72528dba8b8983648a9f4d6abd15aba1, type: 3}
+  - {fileID: 12800000, guid: 92184bfd49986cd43a821bfc8fcb9137, type: 3}
+  - {fileID: 12800000, guid: 53f9cdaf041c70244a7f59513a1429a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

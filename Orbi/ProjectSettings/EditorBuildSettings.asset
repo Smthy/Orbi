@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level 0 - Menu.unity
+    guid: 0fc4416645592b24993d090d1384319a
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Movement.unity
+    guid: 6fb94d2f860f7fd4f945f3b87b014656
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - Jumping.unity
+    guid: 0ac747dcc36fd37419353e08fa27e45f
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - Long Jump.unity
+    guid: 313506346eb64ef41993e4d410003948
+  - enabled: 1
+    path: Assets/Scenes/Level 4 - Death Chance.unity
+    guid: 9749cbafeec90444ea4a5f886e030b98
+  - enabled: 1
+    path: Assets/Scenes/Level 5 - Climbing.unity
+    guid: 12dac01ed8fa5a740ac1413f723c1d12
+  - enabled: 1
+    path: Assets/Scenes/Level 6 - Blockage.unity
+    guid: c3ecdb27e011f9444bffe7a4953b5f95
+  - enabled: 1
+    path: Assets/Scenes/Level 7 - Hole in the World.unity
+    guid: badcff4b2ec68ed41b32e7a502ba067c
+  - enabled: 1
+    path: Assets/Scenes/Level 7.5 - Choice.unity
+    guid: e4f70a20aa7bb4149aa6771611f5b042
+  - enabled: 1
+    path: Assets/Scenes/Level 8 - Cutscene.unity
+    guid: 128c35750f8feee4c9beb149168f95ad
+  - enabled: 1
+    path: Assets/Scenes/Level 9 - EndGame.unity
+    guid: fb0fce237e83be04593ca5054734ac2b
+  - enabled: 1
+    path: Assets/Scenes/Level 9.5 - EndGame (Alive).unity
+    guid: 808a5ef9ad02e6d48b47e17e683e3786
+  - enabled: 1
+    path: Assets/Scenes/Level 10 - Level Select.unity
+    guid: 66484a459e014044e9ef69b215923967
+  m_configObjects: {}
